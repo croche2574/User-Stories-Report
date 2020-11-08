@@ -1,0 +1,58 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage[hidelinks]{hyperref}
+\graphicspath{{images/}}
+
+\begin{document}
+    \input{title.tex}
+    \newpage
+    \tableofcontents
+    \newpage
+    \listoffigures
+    \newpage
+    \section{Project Background}
+    \paragraph{}
+    Corserva is a managed IT service provider that develops and sells custom software and hardware solutions. Corserva's customers
+    include hospitality and other in-person focused related businesses. Official CDC guidelines to businesses encourage taking steps to 
+    prevent the spread of Covid-19 among employees and customers, including temperature checks. Corserva has sponsored this project 
+    to produce a thermal screening solution capable of processing people quickly and without requiring user interaction to minimize additional
+    contact.
+    \paragraph{}
+    Preliminary development and testing has already been completed by Corserva. The system uses a thermal and a regular camera to 
+    recognize users and read the temperature of their face. If the temperature is above a certain threshold, then an alert is shown and 
+    the flagged person can be moved aside for further screening.  The first iteration of the thermal app has several problems:
+    \begin{itemize}
+        \item The camera suffers from temperature drift over time and required frequent callibration.
+        \item The facial recognition process is around 5 seconds, limiting the rate people can be processed.
+        \item Onboarding new users requires interaction directly through the app, not practical for large numbers of employees.
+        \item No option to send an alert to the scanned user.
+    \end{itemize}
+    The new application developed as part of this project will address these problems.
+    \section{Scope}
+    \subsection{Project Scope}
+    \paragraph{}
+    The scope of this project is to produce an application and companion mobile application 
+    to measure and report high temperatures of people passing through the system. The 
+    thermal camera will use an auto calibration system to increase accuracy of 
+    readings. Mobile application to smooth the onboarding process and provide reports 
+    to users.
+    \subsection{Business Scope}
+    The business scope is to provide business with a kiosk and mobile app system that will make 
+    it easier for them to maintain safety precautions during the current Covid 19 
+    pandemic while also increasing the speed in which staff and customers can enter their place of business.
+    \section{System Overview}
+    \subsection{Users}
+    \subsection{Location}
+    \subsection{Responsibilities}
+    \section{User Requirements}
+    \subsection{Interfaces}
+    \subsection{Outputs}
+    \subsection{Inputs}
+    \subsection{Processing}
+    \subsection{Data Storage}
+    \section{Functional Decomposition}
+    \section{Data Flow and Application Structure}
+
+
+\end{document}
