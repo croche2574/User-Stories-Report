@@ -59,20 +59,49 @@
     \paragraph{}
     The primary responsibilities of the new system are:
     \begin{itemize}
-        \item 
+        \item Accurately measure the temperature of people passing through the scanner
+        \item Automatically recalibrate the thermal camera to account for possible drift
+        \item Report people with a facial temperature higher than 100 degrees to the attendant
+        \item Recognize users based on facial imaging, and send an alert to them via the companion app
+        \item Provide real-time reporting of scans and locations to the customer
+        \item Provide report history to users through companion app
+        \item Register new users including facial recognition models through companion app 
     \end{itemize}
     Other desired features include:
     \begin{itemize}
-        \item 
+        \item Process multiple people passing through the system at a time
+        \item Cross-platform support for the thermal scanning app
     \end{itemize}
-    The system will not be responsible for 
+    The system will not be responsible for medical screenings or temperature verification.
     \section{User Requirements}
     \subsection{Interfaces}
+    \paragraph{}
+    The thermal scanner system will need to interface with the chosen facial recognition system, the customer's database solution,
+    and the companion app. Currently the 
     \subsection{Outputs}
     \subsection{Inputs}
     \subsection{Processing}
+    \paragraph{}
+    Not applicable to this project. The thermal scanner system is not intended for medical use beyond preliminary
+    screenings.
     \subsection{Data Storage}
+    \paragraph{}
+    All the necessary data will be stored in a database cloud using a MariaDB 
+    Relational Database Service from Amazon Web Services. The database will contain 
+    users first and last name, email and password, facial recognition data, and a 
+    record of past temperature scans.
     \section{Functional Decomposition}
+    \begin{figure}
+        \centering
+        \includegraphics{Function diagram-Thermal App.png}
+        \caption{Functional Decomposition Diagram - Thermal scanner}
+    \end{figure}
+    \begin{figure}
+        \centering
+        \includegraphics{Function diagram-Mobile Comapanion App.png}
+        \caption{Functional Decomposition Diagram - Comapanion App}
+    \end{figure}
+    
     \section{Data Flow and Application Structure}
 
 
