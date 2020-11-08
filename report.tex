@@ -19,9 +19,9 @@
     to produce a thermal screening solution capable of processing people quickly and without requiring user interaction to minimize additional
     contact.
     \paragraph{}
-    Preliminary development and testing has already been completed by Corserva. The system uses a thermal and a regular camera to 
-    recognize users and read the temperature of their face. If the temperature is above a certain threshold, then an alert is shown and 
-    the flagged person can be moved aside for further screening.  The first iteration of the thermal app has several problems:
+    Preliminary development and testing has already been completed by Corserva. The system uses a thermal and a regular 
+    camera to recognize users and read the temperature of their face. If the temperature is above a certain threshold, 
+    then an alert is shown and the flagged person can be moved aside for further screening.  The first iteration of the thermal app has several problems:
     \begin{itemize}
         \item The camera suffers from temperature drift over time and required frequent callibration.
         \item The facial recognition process is around 5 seconds, limiting the rate people can be processed.
@@ -73,36 +73,67 @@
         \item Cross-platform support for the thermal scanning app
     \end{itemize}
     The system will not be responsible for medical screenings or temperature verification.
+    \newpage
     \section{User Requirements}
     \subsection{Interfaces}
     \paragraph{}
-    The thermal scanner system will need to interface with the chosen facial recognition system, the customer's database solution,
-    and the companion app. Currently the 
+    The thermal scanner system will need to interface with the chosen facial recognition system and the companion app. 
+    Corserva included code for facial recognition from another project as one possible solution.
     \subsection{Outputs}
+    \paragraph{}
+    The thermal app will display a UI alert to the operator if a user has a high temperature.  The app also sends personal reports
+    to the user's companion app when a new scan is performed, and updates a general database for larger reports.
     \subsection{Inputs}
+    \paragraph{}
+    The mobile app will ask the user for their first name, last name, email, password, and 
+    it will user their camera to take photos extract facial recognition data. 
+    The app will then send that information to the database. The thermal app will use 
+    the thermal camera to scan a user at the kiosk to gather facial recognition data 
+    and their temperature.  The customer is able to configure settings for their deployment through the thermal scanner app UI.
     \subsection{Processing}
     \paragraph{}
     Not applicable to this project. The thermal scanner system is not intended for medical use beyond preliminary
-    screenings.
+    screenings. 
     \subsection{Data Storage}
     \paragraph{}
     All the necessary data will be stored in a database cloud using a MariaDB 
     Relational Database Service from Amazon Web Services. The database will contain 
     users first and last name, email and password, facial recognition data, and a 
     record of past temperature scans.
-    \section{Functional Decomposition}
-    \begin{figure}
+    \newpage
+    \section{Functional Decomposition Diagrams}
+    \begin{figure}[h!]
         \centering
-        \includegraphics{Function diagram-Thermal App.png}
+        \includegraphics[width=0.8\textwidth]{Function diagram-Thermal App.png}
         \caption{Functional Decomposition Diagram - Thermal scanner}
     \end{figure}
-    \begin{figure}
+    \begin{figure}[h!]
         \centering
-        \includegraphics{Function diagram-Mobile Comapanion App.png}
+        \includegraphics[width=0.8\textwidth]{Function diagram-Mobile Comapanion App.png}
         \caption{Functional Decomposition Diagram - Comapanion App}
     \end{figure}
-    
+    \newpage
     \section{Data Flow and Application Structure}
-
-
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.8\textwidth]{DFD Top Level.png}
+        \caption{Top Level Data Flow Diagram}
+    \end{figure}
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.8\textwidth]{DFD Level 1.png}
+        \caption{Level 1 Data Flow Diagram}
+    \end{figure}
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.8\textwidth]{DFD Level 2.png}
+        \caption{Level 2 Data Flow Diagram}
+    \end{figure}
+    \newpage
+    \section{Gantt Chart}
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.8\textwidth]{Gantt Chart v3.jpg}
+        \caption{Gantt Chart for Thermal App}
+    \end{figure}
 \end{document}
