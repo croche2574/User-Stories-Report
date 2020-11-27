@@ -1,17 +1,13 @@
-\BOOKMARK [1][-]{section.1}{Project Background}{}% 1
-\BOOKMARK [1][-]{section.2}{Scope}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Project Scope}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{Business Scope}{section.2}% 4
-\BOOKMARK [1][-]{section.3}{System Overview}{}% 5
-\BOOKMARK [2][-]{subsection.3.1}{Users}{section.3}% 6
-\BOOKMARK [2][-]{subsection.3.2}{Location}{section.3}% 7
-\BOOKMARK [2][-]{subsection.3.3}{Responsibilities}{section.3}% 8
-\BOOKMARK [1][-]{section.4}{User Requirements}{}% 9
-\BOOKMARK [2][-]{subsection.4.1}{Interfaces}{section.4}% 10
-\BOOKMARK [2][-]{subsection.4.2}{Outputs}{section.4}% 11
-\BOOKMARK [2][-]{subsection.4.3}{Inputs}{section.4}% 12
-\BOOKMARK [2][-]{subsection.4.4}{Processing}{section.4}% 13
-\BOOKMARK [2][-]{subsection.4.5}{Data Storage}{section.4}% 14
-\BOOKMARK [1][-]{section.5}{Functional Decomposition Diagrams}{}% 15
-\BOOKMARK [1][-]{section.6}{Data Flow and Application Structure}{}% 16
-\BOOKMARK [1][-]{section.7}{Gantt Chart}{}% 17
+\BOOKMARK [1][-]{section.1}{Epics and User stories}{}% 1
+\BOOKMARK [1][-]{section.2}{Derived tasks and Pseudocode}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Detect faces in video}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Calculate temperature discrepancy and adjust camera}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Measure temperature within the segment of the thermal image that corresponds to the user\220s face}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Check if user is registered}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Send notifications to user and alerts to screen}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Compare user temperature to past temps and check for too high temp}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{Register facial data through app}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.8}{Register users through app}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.9}{Allow admin to control data requested and storage duration}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.10}{Produce reports for organization and users}{section.2}% 12
+\BOOKMARK [1][-]{section.3}{Team Member Participation}{}% 13

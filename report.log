@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.8)  8 NOV 2020 15:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.8)  23 NOV 2020 00:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/report.tex"
-(c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/report.tex
+**"c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/User Stories Report/report.tex"
+(c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/User Stories Report/report.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-09-06> (d:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -152,42 +152,111 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip49
-) (d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (d:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+ (d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) (d:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count188
+\lst@gtempboxa=\box45
+\lst@token=\toks16
+\lst@length=\count189
+\lst@currlwidth=\dimen148
+\lst@column=\count190
+\lst@pos=\count191
+\lst@lostspace=\dimen149
+\lst@width=\dimen150
+\lst@newlines=\count192
+\lst@lineno=\count193
+\lst@maxwidth=\dimen151
+ (d:/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count194
+\lst@skipnumbers=\count195
+\lst@framebox=\box46
+) (d:/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (d:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen152
+\ar@mcellbox=\box47
+\extrarowheight=\dimen153
+\NC@list=\toks17
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box48
+) (d:/texlive/2020/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
+) (d:/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip52
+\multirow@cntb=\count196
+\multirow@dima=\skip53
+\bigstrutjot=\dimen154
+)
+\c@nalg=\count197
+ (d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count188
-\l__pdf_internal_box=\box45
-) (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/report.aux)
+\l__kernel_color_stack_int=\count198
+\l__pdf_internal_box=\box49
+) (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/User Stories Report/report.aux
+
+LaTeX Warning: Label `alg1' multiply defined.
+
+
+LaTeX Warning: Label `alg1' multiply defined.
+
+
+LaTeX Warning: Label `alg1' multiply defined.
+
+
+LaTeX Warning: Label `alg1' multiply defined.
+
+
+LaTeX Warning: Label `alg1' multiply defined.
+
+
+LaTeX Warning: Label `alg1' multiply defined.
+
+
+LaTeX Warning: Label `alg1' multiply defined.
+
+)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
  (d:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count189
-\scratchdimen=\dimen148
-\scratchbox=\box46
-\nofMPsegments=\count190
-\nofMParguments=\count191
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count192
-\MPscratchDim=\dimen149
-\MPnumerator=\count193
-\makeMPintoPDFobject=\count194
-\everyMPtoPDFconversion=\toks17
+\scratchcounter=\count199
+\scratchdimen=\dimen155
+\scratchbox=\box50
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen156
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks19
 ) (d:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -196,9 +265,10 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box47
-Package hyperref Info: Link coloring OFF on input line 7.
+\AtBeginShipoutBox=\box51
+Package hyperref Info: Link coloring OFF on input line 33.
  (d:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (d:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -206,24 +276,25 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (d:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count195
+\c@section@level=\count271
 )
-LaTeX Info: Redefining \ref on input line 7.
-LaTeX Info: Redefining \pageref on input line 7.
-LaTeX Info: Redefining \nameref on input line 7.
- (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/report.out) (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/report.out)
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
+ (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/User Stories Report/report.out) (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/User Stories Report/report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
- (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/title.tex [1
+\c@lstlisting=\count272
+ (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/User Stories Report/title.tex [1
 
-{d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/report.toc
+{d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/User Stories Report/report.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 5.
+(Font)              <12> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
+(Font)              <6> on input line 3.
 )
 \tf@toc=\write4
 \openout4 = `report.toc'.
@@ -231,83 +302,69 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.11     \newpage
-                  [1] (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/report.lof)
-\tf@lof=\write5
-\openout5 = `report.lof'.
-
- [2]
-Overfull \hbox (14.74858pt too wide) in paragraph at lines 22--25
- [][] \OT1/cmr/m/n/12 Pre-lim-i-nary de-vel-op-ment and test-ing has al-ready been com-pleted by Corserva.
+l.37     \newpage
+                  [1]
+Overfull \vbox (43.50005pt too high) detected at line 45
  []
 
-[3] [4] [5] [6]
-<images/Function diagram-Thermal App.png, id=148, 692.5875pt x 339.2675pt>
-File: images/Function diagram-Thermal App.png Graphic file (type png)
-<use images/Function diagram-Thermal App.png>
-Package pdftex.def Info: images/Function diagram-Thermal App.png  used on input line 107.
-(pdftex.def)             Requested size: 312.00119pt x 152.83978pt.
-<images/Function diagram-Mobile Comapanion App.png, id=149, 557.08125pt x 447.6725pt>
-File: images/Function diagram-Mobile Comapanion App.png Graphic file (type png)
-<use images/Function diagram-Mobile Comapanion App.png>
-Package pdftex.def Info: images/Function diagram-Mobile Comapanion App.png  used on input line 112.
-(pdftex.def)             Requested size: 312.00119pt x 250.72903pt.
- [7 <c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/images/Function diagram-Thermal App.png> <c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/images/Function diagram-Mobile Comapanion App.png>]
-<images/DFD Top Level.png, id=154, 288.07625pt x 195.73125pt>
-File: images/DFD Top Level.png Graphic file (type png)
-<use images/DFD Top Level.png>
-Package pdftex.def Info: images/DFD Top Level.png  used on input line 119.
-(pdftex.def)             Requested size: 312.00119pt x 211.99585pt.
-<images/DFD Level 1.png, id=155, 463.23062pt x 362.35374pt>
-File: images/DFD Level 1.png Graphic file (type png)
-<use images/DFD Level 1.png>
-Package pdftex.def Info: images/DFD Level 1.png  used on input line 124.
-(pdftex.def)             Requested size: 312.00119pt x 244.05849pt.
+
+Overfull \vbox (14.50003pt too high) detected at line 51
+ []
+
+[2]
+Overfull \hbox (5.16289pt too wide) in paragraph at lines 80--80
+[]\OT1/cmr/bx/n/14.4 Calculate tem-per-a-ture dis-crep-ancy and ad-just cam-
+ []
+
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 84.
+
+Overfull \hbox (13.20596pt too wide) in paragraph at lines 89--90
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[3] [4]
+Overfull \hbox (4.37796pt too wide) in paragraph at lines 127--127
+[]\OT1/cmr/bx/n/14.4 Compare user tem-per-a-ture to past temps and check
+ []
+
+[5]
+Overfull \hbox (8.10585pt too wide) in paragraph at lines 194--195
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \hbox (43.80664pt too wide) in paragraph at lines 197--198
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
 
-<images/DFD Level 2.png, id=156, 535.50063pt x 354.82562pt>
-File: images/DFD Level 2.png Graphic file (type png)
-<use images/DFD Level 2.png>
-Package pdftex.def Info: images/DFD Level 2.png  used on input line 129.
-(pdftex.def)             Requested size: 312.00119pt x 206.74106pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[8 <c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/images/DFD Top Level.png>]
-
-LaTeX Warning: Text page 9 contains only floats.
-
-[9 <c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/images/DFD Level 1.png> <c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/images/DFD Level 2.png>]
-<images/Gantt Chart v3.jpg, id=165, 730.22812pt x 434.37282pt>
-File: images/Gantt Chart v3.jpg Graphic file (type jpg)
-<use images/Gantt Chart v3.jpg>
-Package pdftex.def Info: images/Gantt Chart v3.jpg  used on input line 136.
-(pdftex.def)             Requested size: 312.00119pt x 185.59026pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
- [10 <c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/images/Gantt Chart v3.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
- (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
+[6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 205.
+ [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 205.
+ (c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/User Stories Report/report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 205.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 205.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: A0308C1201D614A7393E71D7B74209E2;978.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
+(rerunfilecheck)             Checksum: 5593222BB22D9C47036F5C8BDC122695;1143.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 205.
  ) 
 Here is how much of TeX's memory you used:
- 6476 strings out of 480876
- 107488 string characters out of 5911503
- 365314 words of memory out of 5000000
- 21965 multiletter control sequences out of 15000+600000
- 540891 words of font info for 48 fonts, out of 8000000 for 9000
+ 8456 strings out of 480876
+ 132321 string characters out of 5911503
+ 404961 words of memory out of 5000000
+ 23865 multiletter control sequences out of 15000+600000
+ 541559 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,5n,43p,391b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/Project Modeling Report/report.pdf" (11 pages, 256650 bytes).
+ 43i,11n,43p,387b,1860s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on "c:/Users/croch/OneDrive - Florida Polytechnic University/School/Senior Year/Fall 2020/Senior Design 1/Thermal App/User Stories Report/report.pdf" (8 pages, 105173 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
- 174 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 500000)
- 167 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 255 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 111 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
